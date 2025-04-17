@@ -79,13 +79,9 @@ The simplified analysis (simple_olympics_analysis.py) generates these visualizat
 
 2. Place the dataset file 'Summer-Olympic-medals-1976-to-2008.csv' in the same directory as the script
 
-3. Run one of the analysis scripts:
+3. Run the analysis script:
    ```
-   python olympics_analysis.py  # Comprehensive analysis
-   ```
-   or
-   ```
-   python simple_olympics_analysis.py  # Simplified analysis
+   python simple_olympics_analysis.py 
    ```
 
 4. Review the generated visualizations and console output for insights
